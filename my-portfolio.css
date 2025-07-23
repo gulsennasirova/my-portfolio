@@ -8,5 +8,7 @@ body{
     background-color: antiquewhite;
 }
 p{
+    text-align: center;
     color: brown;
+    font-family: 'Times New Roman', Times, serif;
 }
