@@ -7,9 +7,9 @@ h1{
 body{
     background-color: antiquewhite;
 }
-p{
+.describe{
     text-align: center;
-    color: brown;
+    color: lightpink;
     font-family: 'Times New Roman', Times, serif;
 }
 header{
